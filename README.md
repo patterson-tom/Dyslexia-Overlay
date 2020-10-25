@@ -1,4 +1,4 @@
-# Dyslexia-Overlay
+# Dyslexia Overlay
 A lightweight easily toggle-able and customisable screen overlay to aid the reading of text for people with dyslexia.
 
 # Setup
