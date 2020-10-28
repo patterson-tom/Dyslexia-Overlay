@@ -3,7 +3,7 @@ import threading
 
 from PyQt5.QtWidgets import QApplication, QWidget, QDesktopWidget, QMainWindow, QColorDialog
 from PyQt5 import QtCore, QtWidgets, QtGui
-from PyQt5.QtCore import QCoreApplication, Qt, QPointO
+from PyQt5.QtCore import QCoreApplication, Qt, QPoint
 
 from pynput import keyboard
 
