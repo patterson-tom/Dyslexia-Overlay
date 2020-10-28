@@ -1,6 +1,8 @@
 # Dyslexia Overlay
 A lightweight easily toggle-able and customisable screen overlay to aid the reading of text for people with dyslexia.
 
+![Example usage of this tool](https://github.com/patterson-tom/Dyslexia-Overlay/blob/master/example-image.png)
+
 # Setup
 Only tested with Python 3.8 and on Windows, but may work with earlier versions of Python and/or other operating systems.
 The following packages are also required:
